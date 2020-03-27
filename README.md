@@ -1,4 +1,4 @@
-# ETL Group Project
+# Oregon County Libraries as a Community Resource
 
 ## Overview
 
